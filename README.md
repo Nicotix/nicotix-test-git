@@ -1,2 +1,2 @@
 # nicotix-test-git
-Un test de Git
+Un test de Git avec un petit +
